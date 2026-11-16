@@ -8,3 +8,5 @@ services:
 PORT=8080
 HOST=0.0.0.0
 LOG_LEVEL=info
+
+# 6a5604
