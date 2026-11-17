@@ -3,3 +3,5 @@ dist/
 *.log
 FROM alpine:3.18
 CMD ["echo", "ready"]
+
+# 5e3645
